@@ -1,2 +1,2 @@
-Learning DevOps using GitHub
+Learning DevOps using GitHub - Shreya
 It is a part of DevOps Hackathon
